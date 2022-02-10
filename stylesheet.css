@@ -13,8 +13,9 @@ body {
 
 main {
   display: grid;
-  margin-left: 10em;
-  margin-right: 10em;
+  margin-left: 15em;
+  margin-right: 15em;
+
   align-items: center;
 }
 
@@ -31,7 +32,7 @@ h1 {
 }
 
 #container {
-  height: 500px;
+  justify-content: center;
 }
 
 #bars {
